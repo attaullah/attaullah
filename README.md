@@ -1,3 +1,6 @@
+![Header](./github-header-attaullah.png)
+
+
 ## Hi there 👋
 
 <!--
@@ -16,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <!-- Followers Count and Views Count -->
 ![](https://img.shields.io/github/followers/attaullah?label=Followers&style=flat-square)
-![Profile views](https://gpvc.arturio.dev/attaullah)
+<!-- ![Profile views](https://gpvc.arturio.dev/attaullah)-->
 
 Hi, I'm Attaullah Sahito, an Assistant Professor of Computer Science at The Shaikh Ayaz University, Shikarpur, Pakistan. With a PhD in Machine Learning from the University of Waikato, New Zealand, I specialize in semi-supervised image classification, deep learning, and computer vision. My research, published in top-tier conferences and journals, focuses on advancing self-training techniques and transfer learning for image analysis.
 
